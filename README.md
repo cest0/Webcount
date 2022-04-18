@@ -7,6 +7,7 @@ Requirements are:
 - must be usable by several groups at the same time
 - must run on student's iPads (no treatment on client side)
 - must stores results on Google Drive.
+- nice to have: undo functionality (i.e. clicked on button by mistake)
 - no budget =)
 
 References:
