@@ -12,4 +12,5 @@ Requirements are:
 
 References:
 
-https://realpython.com/flask-by-example-part-1-project-setup/
+- Deploying a Python Flask Example Application Using Heroku
+   https://realpython.com/flask-by-example-part-1-project-setup/
