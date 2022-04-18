@@ -14,3 +14,5 @@ References:
 
 - Deploying a Python Flask Example Application Using Heroku
    https://realpython.com/flask-by-example-part-1-project-setup/
+- Read and Update Google Spreadsheets with Python!
+   https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/
