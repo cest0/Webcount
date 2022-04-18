@@ -1,5 +1,5 @@
 # Webcount
-Simple Web app implementing a double counter for a Dailogic experiment. 
+Simple Web app implementing a double counter for a Dialogic experiment. 
 
 Requirements are:
 - must keep count of interactions in a group (2 types)
